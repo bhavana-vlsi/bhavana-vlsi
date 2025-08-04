@@ -46,7 +46,7 @@ I'm passionate about **VLSI Design**, especially in the **backend/Physical Desig
 ## 📫 Let's Connect
 
 - 📍 Based in India | Open to VLSI Internships & Opportunities
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhavana-ece)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhavanakaranam-ece)
 - ✉️ karanambhavana275@gmail.com
 
 ---
